@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ntu:home|Door43 (ntu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ntu|d43-ntu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ntu/archive/master.zip|d43-ntu.zip]]
+
+**Recent Changes**
+{{changes>ns = ntu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ntu|Ethnologue data]]
+
